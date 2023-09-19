@@ -13,4 +13,6 @@
 Look for the comments from the code screenshot
 ![Screenshot (40)](https://github.com/anikethmehta/LAB6/assets/52659346/403727d8-d1a3-48bf-b0e7-35fa1a6eff70)
 
+![Screenshot (41)](https://github.com/anikethmehta/LAB6/assets/52659346/bcc80136-39b5-4eb7-b2cd-f48314de88b9)
+
 ### ***Output Screenshot*** :
