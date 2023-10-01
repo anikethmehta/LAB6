@@ -16,3 +16,4 @@ Look for the comments from the code screenshot
 ![Screenshot (41)](https://github.com/anikethmehta/LAB6/assets/52659346/bcc80136-39b5-4eb7-b2cd-f48314de88b9)
 
 ### ***Output Screenshot*** :
+Code : https://github.com/anikethmehta/LAB6/blob/main/code%20page1.png
