@@ -17,8 +17,10 @@ Look for the comments from the code screenshot
 
 ### ***Output Screenshot*** :
 Code : 
-https://github.com/anikethmehta/LAB6/blob/main/code%20page1.png
+  https://github.com/anikethmehta/LAB6/blob/main/code%20page1.png
 
-https://github.com/anikethmehta/LAB6/blob/main/code%20page2.png
+  https://github.com/anikethmehta/LAB6/blob/main/code%20page2.png
 
-https://github.com/anikethmehta/LAB6/blob/main/code%20page3.png
+  https://github.com/anikethmehta/LAB6/blob/main/code%20page3.png
+
+Output : https://github.com/anikethmehta/LAB6/blob/main/output.png
