@@ -1,4 +1,4 @@
-### ***Date*** : 14 August- 18 September
+### ***Date*** : 14 August- 18 September 2023
 ### ***Title*** : LAB6
 ### ***Aim*** : To print five digit number in words.
 ### ***Algorithm*** : 
